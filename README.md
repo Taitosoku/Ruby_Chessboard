@@ -1,4 +1,7 @@
 Ruby_Chessboard
 ===============
 Creating a chessboard in Ruby_Chess
-Adding an arbitrary line
+# a list of things
+* Adding an arbitrary line
+* poop
+* butts
